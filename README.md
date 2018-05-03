@@ -13,7 +13,9 @@ This script uses Python 3.x
 python csvToJSON.py inputFileName.csv outputFileName.json skippedRowsCount
 
 inputFileName: mandatory
+
 outputFileName: optional
+
 skippedRowsCount: optional (It is basically starting rows of csv file that should be skipped, default: 5)
 
 *Usage Examples:*
