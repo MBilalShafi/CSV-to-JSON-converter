@@ -1,0 +1,48 @@
+{
+  "metaData": {
+    "fields": [
+      {
+        "name": "Id",
+        "canonicalName": "id"
+      },
+      {
+        "name": "Name",
+        "canonicalName": "name"
+      },
+      {
+        "name": "Category",
+        "canonicalName": "category"
+      },
+      {
+        "name": "Colx",
+        "canonicalName": "colx"
+      }
+    ]
+  },
+  "data": [
+    {
+      "name": "Hakoona",
+      "colx": "765",
+      "id": "1",
+      "category": "b"
+    },
+    {
+      "name": "Matata",
+      "colx": "100",
+      "id": "2",
+      "category": "x"
+    },
+    {
+      "name": "Boeer",
+      "colx": "65",
+      "id": "3",
+      "category": "x"
+    },
+    {
+      "name": "Hakoona",
+      "colx": "128",
+      "id": "4",
+      "category": "y"
+    }
+  ]
+}
